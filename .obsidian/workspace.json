@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "49c81c09abcd0026",
+    "type": "split",
+    "children": [
+      {
+        "id": "5875e2f80ec699a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1e4a38dbf484837",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aeff3d332f389c91",
+    "type": "split",
+    "children": [
+      {
+        "id": "83742b1cb3bd591b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8221ca5aea5ef9a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbf98d80a28007d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a56916f42696869",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c6b644f9bd40229",
+    "type": "split",
+    "children": [
+      {
+        "id": "58f3c0a1bf7678b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dad0a45e51781203",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "612320b5552259fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae4303a6f09799e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0343bfa68e494fb9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8221ca5aea5ef9a6",
+  "lastOpenFiles": [
+    "PracticalEthicalHacking/Untitled.md",
+    "PracticalEthicalHacking/Introduction to Linux/Scripting with Bash.md",
+    "PracticalEthicalHacking/Introduction to Linux",
+    "PracticalEthicalHacking"
+  ]
+}
